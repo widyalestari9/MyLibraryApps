@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">MyLibraryApp</string>
+    <string-array name="username">
+        <item>TereLiye</item>
+        <item>AlviSyahrin</item>
+        <item>RintikSedu</item>
+        <item>IchiroKishimi dan FumitakeKoga </item>
+        <item>JamesClear</item>
+        <item>IndraSugiarto</item>
+        <item>SyahidMuhammad</item>
+        <item>HenryManampiring</item>
+        <item>FellexandroRuby</item>
+        <item>EkaKurniawan</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Pulang</item>
+        <item>Insecurity</item>
+        <item>Kata</item>
+        <item>Berani Tidak Disukai</item>
+        <item>Antomic Habist</item>
+        <item>Tumbuh Dari Luka</item>
+        <item>Duduk Dulu</item>
+        <item>Filosifi Teras</item>
+        <item>You Do You</item>
+        <item>Cantik Itu Luka</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Lampung,Indonesia</item>
+        <item>Surabaya,Indonesia</item>
+        <item>Bandung,Indonesia</item>
+        <item>Jepang</item>
+        <item>Trondheim, Norway</item>
+        <item>Banyumas,Indonesia</item>
+        <item>Jawa Barat,Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <string-array name="Like">
+        <item>102k</item>
+        <item>371k</item>
+        <item>90k</item>
+        <item>307k</item>
+        <item>564k</item>
+        <item>283k</item>
+        <item>444k</item>
+        <item>210k</item>
+        <item>1064k</item>
+        <item>65k</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>GagasMedia</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>LovebleSoftcover</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+        <item>Gramedia</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>569k</item>
+        <item>513k</item>
+        <item>797k</item>
+        <item>472k</item>
+        <item>788k</item>
+        <item>868k</item>
+        <item>277k</item>
+        <item>778k</item>
+        <item>428k</item>
+        <item>465k</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>12</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+        <item>3</item>
+        <item>39</item>
+        <item>23</item>
+        <item>61</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="avatar">
+        <item>@drawable/pulang</item>
+        <item>@drawable/ins</item>
+        <item>@drawable/kata</item>
+        <item>@drawable/btd</item>
+        <item>@drawable/ah</item>
+        <item>@drawable/tdl</item>
+        <item>@drawable/ddl</item>
+        <item>@drawable/ft</item>
+        <item>@drawable/ydy</item>
+        <item>@drawable/cil</item>
+    </string-array>
+</resources>
